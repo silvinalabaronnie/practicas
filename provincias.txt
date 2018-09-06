@@ -1,0 +1,23 @@
+provincias
+
+tierra del fuego
+santa cruz
+chubut
+rio negro
+neuquen
+tucuman
+mendoza
+san luis
+la pampa
+buenos aires
+san juan
+la rioja
+catamarca
+jujuy
+salta
+misiones
+formosa
+chaco
+santiago del estero
+cordoba
+santa fe
